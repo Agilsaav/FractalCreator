@@ -1,0 +1,50 @@
+﻿  FractalCreator.cpp
+d:\usuario\documentos\c++course\fractalcreator\fractalcreator\zoomlist.h(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\usuario\documentos\c++course\fractalcreator\fractalcreator\fractalcreator.cpp(12): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\usuario\documentos\c++course\fractalcreator\fractalcreator\fractalcreator.cpp(49): warning C4018: '<': signed/unsigned mismatch
+d:\usuario\documentos\c++course\fractalcreator\fractalcreator\fractalcreator.cpp(51): warning C4018: '<': signed/unsigned mismatch
+d:\usuario\documentos\c++course\fractalcreator\fractalcreator\fractalcreator.cpp(85): warning C4018: '<': signed/unsigned mismatch
+d:\usuario\documentos\c++course\fractalcreator\fractalcreator\fractalcreator.cpp(87): warning C4018: '<': signed/unsigned mismatch
+d:\usuario\documentos\c++course\fractalcreator\fractalcreator\fractalcreator.cpp(106): warning C4018: '<=': signed/unsigned mismatch
+d:\usuario\documentos\c++course\fractalcreator\fractalcreator\fractalcreator.cpp(111): warning C4244: '=': conversion from 'double' to 'uint8_t', possible loss of data
+d:\usuario\documentos\c++course\fractalcreator\fractalcreator\fractalcreator.cpp(112): warning C4244: '=': conversion from 'double' to 'uint8_t', possible loss of data
+d:\usuario\documentos\c++course\fractalcreator\fractalcreator\fractalcreator.cpp(113): warning C4244: '=': conversion from 'double' to 'uint8_t', possible loss of data
+d:\usuario\documentos\c++course\fractalcreator\fractalcreator\fractalcreator.cpp(131): warning C4018: '<': signed/unsigned mismatch
+d:\usuario\documentos\c++course\fractalcreator\fractalcreator\fractalcreator.cpp(140): warning C4018: '<': signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\xmemory0(881): warning C4244: 'initializing': conversion from '_Ty' to '_Objty', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Objty=int
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\vector(900): note: see reference to function template instantiation 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,double>(_Alloc &,_Objty *const ,double &&)' being compiled
+          with
+          [
+              _Alloc=std::allocator<int>,
+              _Ty=int,
+              _Objty=int
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\vector(902): note: see reference to function template instantiation 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,double>(_Alloc &,_Objty *const ,double &&)' being compiled
+          with
+          [
+              _Alloc=std::allocator<int>,
+              _Ty=int,
+              _Objty=int
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\vector(916): note: see reference to function template instantiation 'void std::vector<int,std::allocator<_Ty>>::_Emplace_back_with_unused_capacity<double>(double &&)' being compiled
+          with
+          [
+              _Ty=int
+          ]
+  d:\usuario\documentos\c++course\fractalcreator\fractalcreator\fractalcreator.cpp(23): note: see reference to function template instantiation 'void std::vector<int,std::allocator<_Ty>>::emplace_back<double>(double &&)' being compiled
+          with
+          [
+              _Ty=int
+          ]
+  main.cpp
+d:\usuario\documentos\c++course\fractalcreator\fractalcreator\zoomlist.h(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  FractalCreator.vcxproj -> D:\Usuario\Documentos\C++Course\FractalCreator\Debug\FractalCreator.exe
